@@ -17,7 +17,7 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    phone: '9047992022',
+    phone: '9044816920',
     email: 'tolingerjiang@ufl.edu',
   },
   social: {
@@ -58,6 +58,7 @@ const config = {
     'SQL',
     'Flutter',
     'ReactNative',
+    'Firebase',
     'Git',
     'HTML',
     'CSS',
@@ -74,20 +75,34 @@ const config = {
   ],
   experiences: [
     {
+      company: 'The University of Florida ',
+      position: 'Software Engineer',
+      from: 'November 2023',
+      to: 'Present',
+      companyLink: '',
+    },
+    {
       company: 'The BioVision Lab at the Florida Museum of Natural History ',
-      position: 'Student Researcher',
+      position: 'Software Engineer',
       from: 'September 2023',
       to: 'Present',
       companyLink: 'https://www.biovisionlab.com/',
     },
+     {
+      company: 'Florida Community Innovation',
+      position: 'Software Engineering Intern',
+      from: 'August 2023',
+      to: 'Present',
+      companyLink: 'https://floridainnovation.org/',
+    },
     {
       company: 'Dream Team Engineering ',
-      position: 'Unity Software Engineer',
+      position: 'Unity Software Lead',
       from: 'May 2023',
       to: 'Present',
       companyLink: 'https://www.ufdreamteameng.org/',
     },
-  ],*/
+  ],
   certifications: [
     {
       name: 'Harvard\'s CS 50',
