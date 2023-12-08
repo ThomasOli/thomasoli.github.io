@@ -1,15 +1,15 @@
 {
-  "name": "@arifszn/gitprofile",
+  "name": "@thomasolinger/gitprofile",
   "description": "Create an automatic portfolio based on GitHub profile",
   "version": "2.6.0",
   "license": "MIT",
   "author": "arifszn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arifszn/gitprofile.git"
+    "url": "https://github.com/ThomasOli/thomasoli.github.io"
   },
   "bugs": {
-    "url": "https://github.com/arifszn/gitprofile/issues"
+    "url": ""
   },
   "files": [
     "dist/gitprofile.es.js",
