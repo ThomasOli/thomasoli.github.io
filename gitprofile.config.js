@@ -35,8 +35,8 @@ const config = {
     skype: '',
     telegram: '',
     website: '',
-    phone: '9047992022',
-    email: 'tolingerjiang@ufl.edu',
+    phone: '9044816920',
+    email: 'olingerthomas95@gmail.com',
   },
   resume: {
     fileUrl:
